@@ -1,10 +1,13 @@
 # Customer Segmentation Analysis
 
-Customer segmentation is the process of separating customers into groups based on the certain traits they share.
+    Customer segmentation is the process of separating customers into groups based on the certain traits they share.
 
-**Problem description:**
+ # **Problem description:**
 
-A medium size bikes & cycling accessories organisation needs help with its customer and transaction data. The organisation has a large dataset relating to its customers. Their marketing team is looking to boost business by analysing their existing customer dataset to determine customer trends and behaviour and recommend which of these new customers should be targeted to drive the most value for the organisation. 
+    A medium size bikes & cycling accessories organisation needs help with its customer and transaction data.
+    The organisation has a large dataset relating to its customers. Their marketing team is looking to boost
+    business by analysing their existing customer dataset to determine customer trends and behaviour and
+    recommend  which of these new customers should be targeted to drive the most value for the organisation. 
 
 
 # Datasets:
