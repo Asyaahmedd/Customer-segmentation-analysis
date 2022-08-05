@@ -29,8 +29,8 @@
 
 ➡ Loading datasets.
 
-➡ Data Quality Assessment using Data Quality dimensions ( Accuracy, Completeness, 
-   Consistency, Relevancy, Uniqueness and Validity)
+➡ Data Quality Assessment using Data Quality dimensions:
+        Accuracy, Completeness, Consistency, Relevancy,Uniqueness and Validity
 
 ➡ Merging three datasets
 
