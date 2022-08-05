@@ -1,6 +1,7 @@
 # Customer Segmentation Analysis
 
     Customer segmentation is the process of separating customers into groups based on the certain traits they share.
+    Segmentation offers a simple way of organizing and managing your company’s relationships with your customers. 
 
  # **Problem description:**
 
