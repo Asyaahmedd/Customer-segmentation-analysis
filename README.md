@@ -57,9 +57,6 @@
 
 ➡ Data Dashboard
 
-# Dashboard
-
-![](Summary_Dashboard/Summary_dashboard.png)
 
 
     
