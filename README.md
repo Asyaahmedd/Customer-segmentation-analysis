@@ -55,15 +55,15 @@
 
     ➤ Geographic Segmentation :
 
-        - Own car versus state segemntation
+        - Own car versus state Segmentation
 
     ➤ Firmographic Segmentation
 
-        - Bike related purchase based on Industry segemntation
+        - Bike related purchase based on Industry Segmentation
 
-        - Job industry category based on the profit segemntation
+        - Job industry category based on the profit Segmentation
 
-    ➤ RFM segemntation
+    ➤ RFM Segmentation
     
         - RFM analysis is a marketing technique used to quantitatively rank and group customers
           based on the recency, frequency and monetary total of their recent transactions
